@@ -1,7 +1,8 @@
 /r/room/fileinc
 
 # File Inclusion
-This room focuses on file inclusion vulnerabilities such as Local File Inclusion, Remote File Inclusion, and directory traversal. Wikipedia says its a vulnerability found in web application run times. One of the issues is input validation, meaning that users have unwarranted access
+This room focuses on file inclusion vulnerabilities such as Local File Inclusion, Remote File Inclusion, and directory traversal. Wikipedia says its a vulnerability found in web application run times. 
+One of the issues is input validation, meaning that users have unwarranted access
 to inputs. If it is not validated, users can exploit this and access unintended items, such as data and credentials. The attacker can also write these files and gain remote command execution.
 
 
